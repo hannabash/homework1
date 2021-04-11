@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+html{
+    width: 1200px;
+    height: 1200px;
+}
+.header{
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    height: 100px;
+    padding-top: 30px;
+}
+.pic{
+    background: rgb(201, 200, 200);
+    padding: 160px 60px 60px 240px;
+    float: left;
+    width: 100%;
+    height: 1100px;
+}
+.red{
+    color: red;
+}
+button{
+    background: red;
+    color: white;
+    width: 90%;
+    margin: 20px;
+    height: 40px;
+    border: red;
+}
+.inf{
+    background: white;
+    width: 300px;
+    text-align: left;
+    position:absolute;
+    right: 0;
+    top: 10px;
+    padding: 50px;
+    height: 1090px;
+    line-height: 50px;
+}
+#price{
+    text-align: center;
+}
+.container{
+    position: relative;
+    width: 1200px;
+    height: 1100px;
+}
